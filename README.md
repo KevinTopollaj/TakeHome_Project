@@ -1,4 +1,4 @@
-# TakeHomeProject_SwiftUI
+# TakeHome_Project
 
 ## Table of contents
 * [Video Link](#video-link)
